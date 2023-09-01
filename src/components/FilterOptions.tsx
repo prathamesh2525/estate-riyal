@@ -1,4 +1,4 @@
-function FilterOptions({ filters, onFilterChange, filterProperties }) {
+function FilterOptions({ filters, onFilterChange, filterProperties }: any) {
   return (
     <div className="flex flex-wrap gap-5 items-center ">
       <div>

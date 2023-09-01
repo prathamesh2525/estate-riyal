@@ -46,7 +46,7 @@ const Main = () => {
     })
   }
 
-  const onFilterChange = useCallback((filterName, filterValue) => {
+  const onFilterChange = useCallback((filterName: any, filterValue: any) => {
     setFilters((prevFilters) => ({
       ...prevFilters,
       [filterName]: filterValue,
