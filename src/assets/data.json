@@ -1,0 +1,205 @@
+[
+  {
+    "location": "New York",
+    "moveInDate": "2023-09-04",
+    "price": 3500,
+    "propertyType": "House",
+    "image": "https://photos.zillowstatic.com/fp/269d6cfb6e42b085464e040463930deb-p_e.webp"
+  },
+  {
+    "location": "Los Angeles",
+    "moveInDate": "2023-09-10",
+    "price": 2500,
+    "propertyType": "Apartment",
+    "image": "https://photos.zillowstatic.com/fp/b79147278d6c9a6043955981ccd4525f-p_e.webp"
+  },
+  {
+    "location": "Chicago",
+    "moveInDate": "2023-09-15",
+    "price": 1800,
+    "propertyType": "Condo",
+    "image": "https://photos.zillowstatic.com/fp/022f51449c93bff3cefd43bbc5319b0e-p_e.webp"
+  },
+  {
+    "location": "Miami",
+    "moveInDate": "2023-09-20",
+    "price": 3000,
+    "propertyType": "House",
+    "image": "https://photos.zillowstatic.com/fp/cea17bebc15c2cb19cc1d445ed4bef35-p_e.webp"
+  },
+  {
+    "location": "San Francisco",
+    "moveInDate": "2023-09-25",
+    "price": 2200,
+    "propertyType": "Apartment",
+    "image": "https://photos.zillowstatic.com/fp/d49632b83056be4f2f1e72b76c41500c-p_e.webp"
+  },
+  {
+    "location": "Boston",
+    "moveInDate": "2023-09-30",
+    "price": 2800,
+    "propertyType": "House",
+    "image": "https://photos.zillowstatic.com/fp/c1d16be8df0f8b5fe0fb62091fe4f31e-p_e.webp"
+  },
+  {
+    "location": "Seattle",
+    "moveInDate": "2023-10-05",
+    "price": 1900,
+    "propertyType": "Condo",
+    "image": "https://photos.zillowstatic.com/fp/a01fac4d61839d07583f91ffebf493c4-p_e.webp"
+  },
+  {
+    "location": "New York",
+    "moveInDate": "2023-09-15",
+    "price": 3500,
+    "propertyType": "Apartment",
+    "image": "https://photos.zillowstatic.com/fp/af364f02f690e3b67e7283b808b5d84e-p_e.webp"
+  },
+  {
+    "location": "Los Angeles",
+    "moveInDate": "2023-10-01",
+    "price": 2800,
+    "propertyType": "House",
+    "image": "https://photos.zillowstatic.com/fp/a6c5ad3ab7b536f7059481a252c20a75-p_e.webp"
+  },
+  {
+    "location": "Chicago",
+    "moveInDate": "2023-09-20",
+    "price": 2200,
+    "propertyType": "Condo",
+    "image": "https://photos.zillowstatic.com/fp/1b987e43b457736c8e3a390debb36bd8-p_e.webp"
+  },
+  {
+    "location": "San Francisco",
+    "moveInDate": "2023-10-10",
+    "price": 4000,
+    "propertyType": "Apartment",
+    "image": "https://photos.zillowstatic.com/fp/f89075cc0bcb33f1766d06fd88ec95e3-p_e.webp"
+  },
+  {
+    "location": "Miami",
+    "moveInDate": "2023-09-25",
+    "price": 2500,
+    "propertyType": "Condo",
+    "image": "https://photos.zillowstatic.com/fp/58dd40f51f777b0c960f068df8d335fc-p_e.webp"
+  },
+  {
+    "location": "Austin",
+    "moveInDate": "2023-10-15",
+    "price": 1800,
+    "propertyType": "Apartment",
+    "image": "https://photos.zillowstatic.com/fp/594bffc692f2aba89ed38a9359f46a06-p_e.webp"
+  },
+  {
+    "location": "Denver",
+    "moveInDate": "2023-09-28",
+    "price": 2100,
+    "propertyType": "House",
+    "image": "https://photos.zillowstatic.com/fp/9f3efb0d407a2b9a542d7b4bffb619c6-p_e.webp"
+  },
+  {
+    "location": "Portland",
+    "moveInDate": "2023-10-03",
+    "price": 1700,
+    "propertyType": "Condo",
+    "image": "https://photos.zillowstatic.com/fp/4d68c8b9ea48fce623ec86f8373c1302-p_e.webp"
+  },
+  {
+    "location": "Dallas",
+    "moveInDate": "2023-09-18",
+    "price": 2300,
+    "propertyType": "House",
+    "image": "https://photos.zillowstatic.com/fp/96b5ddc88d2878d4af704130a1cf2ead-p_e.webp"
+  },
+  {
+    "location": "Phoenix",
+    "moveInDate": "2023-10-12",
+    "price": 1900,
+    "propertyType": "Apartment",
+    "image": "https://photos.zillowstatic.com/fp/4379e58cca7aa0d233f15e8c94b0cf52-p_e.webp"
+  },
+  {
+    "location": "San Diego",
+    "moveInDate": "2023-09-22",
+    "price": 2700,
+    "propertyType": "House",
+    "image": "https://photos.zillowstatic.com/fp/d6ba85c63c9765a51696ec1126eefe73-p_e.webp"
+  },
+  {
+    "location": "Atlanta",
+    "moveInDate": "2023-10-08",
+    "price": 2200,
+    "propertyType": "Condo",
+    "image": "https://photos.zillowstatic.com/fp/988ecc919eb43b3d7c6792aa7b13a397-p_e.webp"
+  },
+  {
+    "location": "Houston",
+    "moveInDate": "2023-09-15",
+    "price": 2400,
+    "propertyType": "Apartment",
+    "image": "https://photos.zillowstatic.com/fp/3857b3fbe06788b13a0e3def91b85f3f-p_e.webp"
+  },
+  {
+    "location": "Philadelphia",
+    "moveInDate": "2023-10-01",
+    "price": 1800,
+    "propertyType": "House",
+    "image": "https://photos.zillowstatic.com/fp/d50bb5128458e026a355a5e1a2c5e977-p_e.webp"
+  },
+  {
+    "location": "Las Vegas",
+    "moveInDate": "2023-09-20",
+    "price": 2100,
+    "propertyType": "Condo",
+    "image": "https://photos.zillowstatic.com/fp/f70fa796fcf1457dbf6eb9e2a21c2183-p_e.webp"
+  },
+  {
+    "location": "Minneapolis",
+    "moveInDate": "2023-10-10",
+    "price": 2600,
+    "propertyType": "House",
+    "image": "https://photos.zillowstatic.com/fp/8d0d0689e24bdec7c5a1c8aa13f4d5f2-p_e.webp"
+  },
+  {
+    "location": "Nashville",
+    "moveInDate": "2023-09-25",
+    "price": 1950,
+    "propertyType": "Apartment",
+    "image": "https://photos.zillowstatic.com/fp/e405855d302b3e619ba031120a14f19b-p_e.webp"
+  },
+  {
+    "location": "Raleigh",
+    "moveInDate": "2023-10-15",
+    "price": 2200,
+    "propertyType": "Condo",
+    "image": "https://photos.zillowstatic.com/fp/fae17f31d0d7ab536dd332a250f8c99d-p_e.webp"
+  },
+  {
+    "location": "Orlando",
+    "moveInDate": "2023-09-28",
+    "price": 1850,
+    "propertyType": "House",
+    "image": "https://photos.zillowstatic.com/fp/a5d2fef4303cc03231842fe9ba72cc5d-p_e.webp"
+  },
+  {
+    "location": "San Antonio",
+    "moveInDate": "2023-10-03",
+    "price": 2050,
+    "propertyType": "Apartment",
+    "image": "https://photos.zillowstatic.com/fp/e61337c40d0862bd996fa325124f6c4f-p_e.webp"
+  },
+  {
+    "location": "Columbus",
+    "moveInDate": "2023-09-18",
+    "price": 1750,
+    "propertyType": "Condo",
+    "image": "https://photos.zillowstatic.com/fp/d73c0bc842e6e1601f271d945da7bd9f-p_e.webp"
+  },
+  {
+    "location": "Tampa",
+    "moveInDate": "2023-10-12",
+    "price": 2300,
+    "propertyType": "House",
+    "image": "https://photos.zillowstatic.com/fp/071d1d81589e49b2d94103a081068fcd-p_e.webp"
+  }
+]
